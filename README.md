@@ -2,7 +2,7 @@
 
 Shiori : regarder les animes et lire les scans d'Anime-Sama, avec suivi de progression, téléchargements hors ligne et synchronisation entre appareils.
 
-**Dernière version : [page des téléchargements](https://github.com/0xim0/Shiori-telechargements/releases/latest)**
+**Dernière version : [page des téléchargements](https://github.com/Kudozu/Shiori-telechargements/releases/latest)**
 
 ## Android
 
