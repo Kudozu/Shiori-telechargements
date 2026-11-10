@@ -20,6 +20,13 @@ Les mises à jour arrivent ensuite toutes seules dans l'app (un bandeau propose 
 2. Si Windows affiche « Windows a protégé votre ordinateur » : *Informations complémentaires* → *Exécuter quand même* (l'installateur n'est pas signé).
 3. *Installer*, puis ouvre Shiori et entre le code d'accès. Les mises à jour arrivent ensuite dans l'app.
 
+## Mac
+
+1. Télécharge **Shiori-Mac-arm64.dmg** si ton Mac a une puce Apple (M1, M2, M3…), ou **Shiori-Mac-x64.dmg** pour un ancien Mac Intel (menu Pomme → *À propos de ce Mac* pour savoir).
+2. Ouvre le fichier et glisse **Shiori** dans le dossier *Applications*.
+3. À la première ouverture, macOS refuse (l'app n'est pas signée par Apple) : va dans *Réglages système → Confidentialité et sécurité*, descends et clique sur *Ouvrir quand même*, puis confirme. Ensuite elle s'ouvre normalement.
+4. Entre le code d'accès. Les mises à jour arrivent ensuite dans l'app.
+
 ## Compte
 
 Onglet **Compte** (sur téléphone : **Moi → Connexion**) : crée un compte avec un code d'invitation donné par un ami, ou connecte-toi.
